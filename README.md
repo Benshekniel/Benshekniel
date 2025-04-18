@@ -94,7 +94,3 @@ Here's what I've learned so far:
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
   </a>
 </p>
-
----
-
-Feel free to explore my repositories and connect with me for exciting collaborations! 🚀✨
