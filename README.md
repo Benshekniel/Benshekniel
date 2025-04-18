@@ -39,11 +39,6 @@ Here's what I've learned so far:
 - **LinkedIn**: [linkedin.com/in/benshekniel](https://lk.linkedin.com/in/benshekniel)
 <hr>
 
-### ⚡ Fun Facts:
-- 🌍 Apart from coding, I enjoy learning about cloud computing and AI-powered solutions.
-- 🥅 Always striving to learn and grow, one code snippet at a time!
-
-<hr>
 ### 🖼️ Languages and Tools:
 
 <p align="left">
