@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi 👋, I'm Benshekniel
+<h1><b>Hi 👋, I'm Benshekniel</b></h1>
 </div>
 
 ### 🔭 About Me:
