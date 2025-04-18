@@ -1,39 +1,49 @@
-## Hi there 👋 Welcome to My Profile!
+<div align="center">
 
-I'm Benshekniel, a passionate and curious student pursuing a **BSc in Computer Science** at the **University of Colombo School of Computing**. I am continually expanding my skill set and tackling new challenges in the world of technology and innovation.
-
----
+## Hi 👋, I'm Benshekniel
+</div>
 
 ### 🔭 About Me:
 - 🧑‍💻 Studying **Computer Science** and exploring diverse areas in technology.
 - 🚀 I aspire to create impactful and efficient solutions using a blend of creativity and innovation.
 - 💡 I love exploring new frameworks, tools, and programming languages to stay ahead of the curve.
 
----
+<hr>
 
 ### 🛠️ My Skills:
 Here's what I've learned so far:
 
-- **Programming Languages**: C, C++, JavaScript, Python, Scala, R, Octave
-- **Frontend**: HTML, CSS, Bootstrap, Figma
-- **Backend**: PHP, Node.js, Express
-- **Databases**: MySQL, MongoDB
-- **Other Tools & Tech**: Git, Linux, AWS, Cloud Computing
+- **Programming Languages**: C, C++, JavaScript, Python, Scala, R, Octave  
+- **Frontend**: HTML, CSS, Bootstrap, Figma  
+- **Backend**: PHP, Node.js, Express  
+- **Databases**: MySQL, MongoDB  
+- **Other Tools & Tech**: Git, Linux, AWS, Cloud Computing  
 
----
+<hr>
+
+### 📊 GitHub Stats & Analytics
+
+  <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benshekniel&layout=compact&theme=default" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Benshekniel&show_icons=true&theme=default" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Benshekniel&theme=default" alt="GitHub Streak" />
+  <br />
+</p>
+
+<hr>
 
 ### 📬 How to Reach Me:
 - **Email**: [benshekniel@gmail.com](mailto:benshekniel@gmail.com)
 - **LinkedIn**: [linkedin.com/in/benshekniel](https://lk.linkedin.com/in/benshekniel)
-
----
+<hr>
 
 ### ⚡ Fun Facts:
 - 🌍 Apart from coding, I enjoy learning about cloud computing and AI-powered solutions.
 - 🥅 Always striving to learn and grow, one code snippet at a time!
 
----
-
+<hr>
 ### 🖼️ Languages and Tools:
 
 <p align="left">
@@ -89,5 +99,7 @@ Here's what I've learned so far:
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
   </a>
 </p>
+
+---
 
 Feel free to explore my repositories and connect with me for exciting collaborations! 🚀✨
