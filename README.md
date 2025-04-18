@@ -1,7 +1,6 @@
 <div align="center">
 
-<h1><b>Hi 👋, I'm Benshekniel</b></h1>
-</div>
+<h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm Benshekniel</h1></div>
 
 ### 🔭 About Me:
 - 🧑‍💻 Studying **Computer Science** and exploring diverse areas in technology.
