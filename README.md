@@ -3,9 +3,9 @@
 <h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm Benshekniel</h1></div>
 
 ### 🔭 About Me:
-- 🧑‍💻 Studying **Computer Science** and exploring diverse areas in technology.
-- 🚀 I aspire to create impactful and efficient solutions using a blend of creativity and innovation.
-- 💡 I love exploring new frameworks, tools, and programming languages to stay ahead of the curve.
+- Studying **Computer Science** and exploring diverse areas in technology.
+- I aspire to create impactful and efficient solutions using a blend of creativity and innovation.
+- I love exploring new frameworks, tools, and programming languages to stay ahead of the curve.
 
 <hr>
 
@@ -18,24 +18,6 @@ Here's what I've learned so far:
 - **Databases**: MySQL, MongoDB  
 - **Other Tools & Tech**: Git, Linux, AWS, Cloud Computing  
 
-<hr>
-
-### 📊 GitHub Stats & Analytics
-
-  <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benshekniel&layout=compact&theme=default" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Benshekniel&show_icons=true&theme=default" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Benshekniel&theme=default" alt="GitHub Streak" />
-  <br />
-</p>
-
-<hr>
-
-### 📬 How to Reach Me:
-- **Email**: [benshekniel@gmail.com](mailto:benshekniel@gmail.com)
-- **LinkedIn**: [linkedin.com/in/benshekniel](https://lk.linkedin.com/in/benshekniel)
 <hr>
 
 ### 🖼️ Languages and Tools:
@@ -93,3 +75,23 @@ Here's what I've learned so far:
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
   </a>
 </p>
+<hr>
+
+### 📊 GitHub Stats & Analytics
+
+  <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benshekniel&layout=compact&theme=default" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Benshekniel&show_icons=true&theme=default" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Benshekniel&theme=default" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=Benshekniel&theme=(https://github.com/ryo-ma/github-profile-trophy)" alt="GitHub Trophies">
+  <br />
+</p>
+
+<hr>
+
+### 📬 How to Reach Me:
+- **Email**: [benshekniel@gmail.com](mailto:benshekniel@gmail.com)
+- **LinkedIn**: [linkedin.com/in/benshekniel](https://lk.linkedin.com/in/benshekniel)
