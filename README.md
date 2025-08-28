@@ -77,21 +77,6 @@ Here's what I've learned so far:
 </p>
 <hr>
 
-### 📊 GitHub Stats & Analytics
-
-  <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benshekniel&layout=compact&theme=default" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Benshekniel&show_icons=true&theme=default" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Benshekniel&theme=default" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=Benshekniel&theme=(https://github.com/ryo-ma/github-profile-trophy)" alt="GitHub Trophies">
-  <br />
-</p>
-
-<hr>
-
 ### 📬 How to Reach Me:
 - **Email**: [benshekniel@gmail.com](mailto:benshekniel@gmail.com)
 - **LinkedIn**: [linkedin.com/in/benshekniel](https://lk.linkedin.com/in/benshekniel)
